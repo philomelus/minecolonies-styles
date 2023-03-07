@@ -1,6 +1,6 @@
 # minecolonies-styles
 
-MineColony styles I use.  Almost all of them are modified versions of standard styles.  I chose structures that I like, and then made whatever modifications were needed to make them adhere to a midieval style.  This means that the stuctures are not all from a single standard style;  Town hall is from medieval oak, but tavern is from somewhere else, but modified to ne more medieval style.
+MineColony styles I use.  Almost all of them are modified versions of standard styles.  I chose structures that I like, and then made whatever modifications were needed to make them adhere to a midieval style.  This means that the stuctures are not all from a single standard style;  Town hall is from medieval oak, but tavern is from somewhere else, but modified to be more medieval style.
 
 I made these because I strongly prefer consistancy.
 
