@@ -20,7 +20,7 @@ To use the style, place the named folder into your blueprints folder.  For ATM8,
 
 For windows using the FTB launcher for ATM8, for me, this is:
 
-c:\Users\Russell\AppData\Local\.ftba\instances\e4c596e4-baea-4e81-a136-61bfbaf509cf\blueprints\oakstonebrick
+c:\Users\Russell\AppData\Local\\.ftba\instances\e4c596e4-baea-4e81-a136-61bfbaf509cf\blueprints\oakstonebrick
 
 which is:
 
