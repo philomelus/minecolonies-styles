@@ -24,6 +24,6 @@ c:\Users\Russell\AppData\Local\\.ftba\instances\e4c596e4-baea-4e81-a136-61bfbaf5
 
 which is:
 
-{windows drive}:\Users\\{username}\AppData\Local\.ftba\instances\{instance UUID}\blueprints\oakstonebrick
+{windows drive}:\Users\\{username}\AppData\Local\\.ftba\instances\{instance UUID}\blueprints\oakstonebrick
 
 It appears in my styles selection when using the builders wand.
