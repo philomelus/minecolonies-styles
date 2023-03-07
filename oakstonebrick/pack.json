@@ -1,0 +1,14 @@
+{
+  "icon": "oakstonebrrick.png",
+  "name": "Oak Stone Brick",
+  "authors": [
+    "philomelus"
+  ],
+  "desc": "Huts from multiple standard packs, restyled with stone bricks and oak as the main theme.  Reduced framed blocks.",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "1",
+  "pack-format": "1"
+}
