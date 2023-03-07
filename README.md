@@ -10,6 +10,7 @@ I made these because I strongly prefer consistancy.
 - In some cases, converted non-shingle roofs to shingled roofs.
 - Replaced verious shingles to brick shingles.
 - Removed buttons from end of logs (I really don't understand this one).
+- Removed almost all framed blocks, replacing with appropriate standard planks.
 - Etc.
 
 =====
